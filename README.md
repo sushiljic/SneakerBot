@@ -9,5 +9,7 @@ SneakerBot is developed in Java and uses Selenium library to implement automatio
 
 ## Tools Used
 Selenium - http://www.seleniumhq.org/
+
 Block Image - https://chrome.google.com/webstore/detail/block-image/pehaalcefcjfccdpbckoablngfkfgfgj?hl=en
+
 Eclipse - https://eclipse.org/home/index.php
